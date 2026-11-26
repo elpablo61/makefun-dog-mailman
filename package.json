@@ -1,0 +1,1 @@
+{"description":"The Dog Reviews the Mailman — one funny one-line review a dog gives the mailman.","license":"MIT","main":"main.ts","name":"makefun-dog-mailman","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
